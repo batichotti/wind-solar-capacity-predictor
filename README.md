@@ -1,0 +1,1 @@
+# wind-solar-capacity-predictor
